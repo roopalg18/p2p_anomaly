@@ -62,14 +62,6 @@ I wanted to practice applying data + analytics to a **real business problem**. D
 
 ---
 
-## Sample Output
-
-Histogram of final anomaly scores (most invoices are low risk, but a small tail are flagged):
-
-![Final Score Histogram](out/final_score_hist.png)
-
----
-
 ## How to Run
 
 Clone this repo and run the pipeline locally:
